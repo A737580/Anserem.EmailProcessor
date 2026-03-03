@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Anserem.EmailProcessor.Console/Anserem.EmailProcessor.Console.csproj" />
+  <Project Path="Anserem.EmailProcessor.Domain/Anserem.EmailProcessor.Domain.csproj" />
+  <Project Path="Anserem.EmailProcessor.Tests/Anserem.EmailProcessor.Tests.csproj" />
+</Solution>
